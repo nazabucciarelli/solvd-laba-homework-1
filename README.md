@@ -1,9 +1,9 @@
 # 1st Homework of Java Test Automation Course - Solvd laba
-This repository stores the 1st homework given by our mentor in the Java Test Automation Course at Solvd laba. It consists in a basic System.out program and a quick sort algorithm made by myself. Was an interesting exercise the last one since the only sorting algorithm that I knew was the bubble one, so I had to make some searches before facing the challenge.
+This repository stores the 1st homework given by our mentor in Java Test Automation Course at Solvd laba. It consists in a basic System.out program and a quick sort algorithm. Was an interesting exercise the last one since the only sorting algorithm that I knew was the bubble one, so I had to make some searches before facing the challenge.
 
 ## Technologies
 
- - Java
+- Java
 
 ## Set-Up
 
