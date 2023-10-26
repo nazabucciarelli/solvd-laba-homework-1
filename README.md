@@ -10,11 +10,13 @@ This repository stores the 1st homework given by our mentor in the Java Test Aut
 To run this project you will need an updated version of Java.
 First, clone this repository in a folder of your PC.
 You have to put the following command in a terminal:
-```bash
+
+``bash
   git clone this-repo-url
-```
+``
 After, you should be able to run the compiled files (.class extension) in the src folder (in case of this homework, because it's a requirement compiling the code manually with javac command) with the following command in terminal:
-```bash
+
+``bash
   java JavaFileName
 ``
 ## Author
